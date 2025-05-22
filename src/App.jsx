@@ -96,7 +96,7 @@ function App() {
          <footer className="py-2 text-center text-white bg-gray-800 mt-[550px] flex justify-between items-center px-10">
       <p>
         Made with ❤️ by {""}
-        <a
+        <a 
           href="mailto:nehamehar31@gmail.com"
           className="underline hover:text-blue-600"
           target="_blank"
