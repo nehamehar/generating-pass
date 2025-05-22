@@ -1,6 +1,7 @@
 import { useState, useCallback, useEffect, useRef } from 'react'
 
-import Footer from "./Footer";
+import Footer from "./footer";
+
 
 
 function App() {
