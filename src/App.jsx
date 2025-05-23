@@ -94,14 +94,15 @@ function App() {
           <label htmlFor="characterInput">Characters</label>
       </div>
     </div> 
-         <footer className="py-2 text-center text-white bg-gray-800 mt-[550px] flex justify-between items-center px-10">
+         <footer className="py-2 text-center text-gray-500 bg-gray-800 mt-[550px] flex justify-between items-center px-10">
       <p>
         Made with ❤️ by {""}
         <a 
           href="mailto:nehamehar31@gmail.com"
-          className="underline hover:text-blue-600"
+          className="text-white underline hover:text-blue-600"
           target="_blank"
           rel="noopener noreferrer"
+          
         >
           Neha Mehar
         </a>
