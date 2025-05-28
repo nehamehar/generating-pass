@@ -2,17 +2,17 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="py-4 mt-8 text-center text-white bg-gray-900">
+    <footer className="py-4 text-base text-center bg-gray-900 mt-9 text-slate-400">
       <div className="footer-bottom">
-        <span className="block mb-2">
+        <span className="mb-2">
           Made with ❤️ by{" "}
           <a
             href="mailto:nehamehar31@gmail.com"
-            className="underline hover:text-pink-300"
+            className="text-lg text-slate-200"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Neha Mehar
+            Neha
           </a>
         </span>
         <a
@@ -20,7 +20,7 @@ const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="text-xl text-white fab fa-github hover:text-gray-400"></i>
+          <i className="text-3xl text-white fab fa-github ml-[50rem]"></i>
         </a>
       </div>
     </footer>
