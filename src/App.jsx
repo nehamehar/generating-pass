@@ -103,7 +103,7 @@ sm:flex-row sm:justify-between sm:px-8 — from 640px width (small tablets+) mak
 
 lg:px-16 — bigger padding on large screens (1024px+)
 Use Tailwind’s responsive prefixes (sm:, md:, lg: etc.) to add or override styles for bigger screens. */}
-  <footer className="w-full py-4 text-base px-7 center bg-slate-800">
+  <footer className="w-full py-2.5 text-base px-7 center bg-slate-800">
     <div className="flex flex-col gap-4 p-2 text-center bg-gray-800 text-slate-400 lg:ml-48 sm:flex-row sm:justify-between sm:px-8 lg:px-16">
       
       <p>
