@@ -107,7 +107,7 @@ Use Tailwind’s responsive prefixes (sm:, md:, lg: etc.) to add or override sty
     <div className="flex flex-col gap-4 p-2 text-center bg-gray-800 text-slate-400 lg:ml-48 sm:flex-row sm:justify-between sm:px-8 lg:px-16">
       
       <p>
-        Made with ❤️ by{" "}
+        Made with <span className="text-lg text-red-500 animate-pulse">❤️</span> by{" "}
         <a
           href="mailto:nehamehar31@gmail.com"
           className="text-lg text-white "
